@@ -1,1 +1,1 @@
-# ideal-barnacle-logreg-nodejs
+# Backend Demo for Registration & Login
